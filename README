@@ -1,0 +1,65 @@
+# 🏡 Bengaluru Property Price Intelligence (Excel Project)
+
+## 📊 Project Overview
+
+This project analyzes real estate property data from Bengaluru to help users understand pricing trends, locality comparisons, and property configurations. The dashboard is designed for non-technical users to explore property insights interactively.
+
+---
+
+## 🔧 Tools Used
+
+* Microsoft Excel
+* Power Query (Data Cleaning)
+* Pivot Tables
+* Data Visualization
+
+---
+
+## 🧹 Data Cleaning
+
+* Cleaned raw housing data using Power Query
+* Extracted BHK values from text fields
+* Converted price formats (Cr/Lakh to numeric Lakhs)
+* Standardized locality and area values
+
+---
+
+## 📈 Feature Engineering
+
+* Created **Price per Sq Ft** metric:
+
+  Price_per_sqft = (Price in Lakhs × 100000) / Area
+
+---
+
+## 📊 Analysis Performed
+
+* BHK-wise price and area analysis
+* Locality-wise price comparison
+* Identification of high-value and low-value areas
+* Property distribution insights
+
+---
+
+## 📊 Dashboard Features
+
+* KPI Cards (Avg Price, Avg Area, Price per Sqft, Listings)
+* Top Localities by Price per Sqft
+* BHK Distribution Analysis
+* Buyer Comparison Tool (interactive filtering)
+
+---
+
+## 📁 Files
+
+* Bengaluru_Property_Intelligence.xlsx → Main project file
+
+---
+
+## 🚀 Key Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Business Analysis
+* Dashboard Design
+* Excel Advanced Functions
