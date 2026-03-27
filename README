@@ -4,6 +4,7 @@
 
 This project analyzes real estate property data from Bengaluru to help users understand pricing trends, locality comparisons, and property configurations. The dashboard is designed for non-technical users to explore property insights interactively.
 
+Dataset: https://www.kaggle.com/datasets/rohan2662/99acres-bengaluru-dataset
 ---
 
 ## 🔧 Tools Used
